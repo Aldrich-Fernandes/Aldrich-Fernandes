@@ -27,7 +27,7 @@ I am also on the hunt for a placement role within the AI, Automation and Robotic
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/aldrich-fernandes)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/aldrich-fernandes-31b764256/)
 - **Portfolio:** [My Portfolio Site](https://Aldrich-Fernandes.github.io)
 
 ---
