@@ -13,7 +13,7 @@ I am also on the hunt for a placement role within the AI, Automation and Robotic
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Game Development:** Pygame
 - **Machine Learning:** PyTorch, NumPy
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, BASH (shell scripting)
 
 ## 📊 GitHub Stats
 
